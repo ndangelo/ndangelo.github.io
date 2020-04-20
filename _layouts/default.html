@@ -119,6 +119,8 @@
 <title>{{ page.title }}</title>
 
   <body>
+	  	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+
     {{ content }}
 
 </body>
