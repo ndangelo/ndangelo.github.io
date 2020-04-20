@@ -2,7 +2,8 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Solar Theme</title>
+  <title>{{ page.title }}</title>
+
    <link rel="shortcut icon" href="https://yeun.github.io/open-color/asset/favicon/favicon.ico">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://yeun.github.io/open-color/asset/favicon/apple-touch-icon-144x144.png" />
   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://yeun.github.io/open-color/asset/favicon/apple-touch-icon-152x152.png" />
@@ -112,17 +113,17 @@
 
 
 </head>
+	  <body>
   <div class="container">
     <div class="row">
      <!-- <div class="shortcut-wrap">
         <ul class="shortcut-menus">-->
-<title>{{ page.title }}</title>
 
-  <body>
+
 	  	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
     {{ content }}
-
+</div>
 </body>
-		</div>
+		
 </html>
