@@ -1,4 +1,6 @@
- .madtinker_main {
+@import "manni.css";
+
+.madtinker_main {
         display: flex;
         align-items: center;
         justify-content: center;
