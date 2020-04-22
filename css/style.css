@@ -83,7 +83,7 @@
 pre{display:block;
 	margin-top:0;
 	margin-bottom:0;
-	padding:0;
+	padding:20;
 	line-height:1.5;
 	white-space:pre;
 	white-space:-moz-pre;
@@ -98,7 +98,7 @@ pre code{margin:0;
 	font-size:inherit;
 	white-space:pre-wrap;
 	word-break:break-all;
-	background-color:transparent;
+	background-color:;
 	border-radius:0}
 
 @media (max-width: 543px){
