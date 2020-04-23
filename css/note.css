@@ -13,8 +13,8 @@ p {
     margin-left: -30px;
     padding: 20px 20px 24px;
     padding-left: 50px;
-   /* -webkit-border-radius: 5 5px 5px 5;
-    -moz-border-radius: 5 5px 5px 5;*/
+   /* -webkit-border-radius: 0 5px 0px 5;
+    -moz-border-radius: 5 0px 5px 0;*/
     border-radius: 4px 4px 4px 4px;
     position: relative;
    /* -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.2), inset 0 -1px 0 rgba(0,0,0,0.3);
@@ -41,7 +41,7 @@ article {
 }
 
 
-.note:before {
+/*.note:before {
     content: "";
     position: absolute;
     top: -10px;
@@ -51,7 +51,7 @@ article {
     border-width: 5px;
     width: 0;
     height: 0;
-}
+} */
 
 
 /* .note:after {
