@@ -10,7 +10,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
+{% highlight ruby linenos%}
 def print_hi(name)
   puts "Hi, #{name}"
 end
@@ -20,7 +20,7 @@ print_hi('Tom')
 
 Center Flex
 
-{% highlight css %}
+{% highlight css linenos%}
 .navbar {
     text-align:center;
     width: 100%;
@@ -36,7 +36,7 @@ Center Flex
 }
 {% endhighlight %}
 
-{% highlight css %}
+{% highlight css linenos%}
 
     .text-example {
         display: flex;
