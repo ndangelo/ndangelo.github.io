@@ -34,8 +34,23 @@ Center Flex
 .navbar li + li {
     margin-left:20px;
 }
+{% endhighlight %}
+
 {% highlight html %}
 
+    .text-example {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        margin: 10% 0;
+        min-height: 200px;
+        background-color: rgba(33, 33, 33, .3);
+        align-items: center;
+    }
+   {% endhighlight %}
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288659449&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
