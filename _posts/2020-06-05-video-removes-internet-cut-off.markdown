@@ -3,10 +3,8 @@ layout: post
 title:  "YouTube Sample"
 date:   2020-04-21 20:33:11
 category: Video
-	  	
-
 ---
-
+---
 
 <p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
