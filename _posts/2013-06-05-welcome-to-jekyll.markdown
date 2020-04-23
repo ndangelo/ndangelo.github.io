@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2013-06-05 17:06:25
 categories: jekyll update
 ---
-
+---
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
@@ -55,7 +55,8 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288659449&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-<div class="note"><h4>I'm Really Glad This Worked</h4></div>
+<div class="note"><h5>I'm Really Glad This Worked</h5></div>
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+---
