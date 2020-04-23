@@ -55,7 +55,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288659449&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-<div class="note"><h6>I'm Really Glad This Worked</h6></div>
+<div class="note"><h4>I'm Really Glad This Worked</h4></div>
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
