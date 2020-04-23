@@ -1,8 +1,14 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
 @media (min-width: 768px)
 .note {
     margin-left: -50px;
 }
 .note {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
     margin: 30px 0;
     margin-left: -30px;
     padding: 20px 20px 24px;
