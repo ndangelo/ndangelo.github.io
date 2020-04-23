@@ -54,7 +54,7 @@ article {
 }
 
 
-.note:after {
+/* .note:after {
     content: '\2605';
     color: #fc0;
     position: absolute;
@@ -63,4 +63,8 @@ article {
     font-size: 28px;
     font-weight: 700;
     text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
+} */
+
+h6 {
+    font-size: 10px;
 }
