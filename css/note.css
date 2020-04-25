@@ -2,6 +2,11 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    size:26px;
+}
+
 @media (min-width: 768px)
 .note {
     margin-left: -50px;
