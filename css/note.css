@@ -4,7 +4,8 @@ p {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    size:26px;
+    size:30px;
+    font-weight: 300;
 }
 
 @media (min-width: 768px)
