@@ -4,8 +4,6 @@ title:  "Creative Brief"
 date:   2028-04-28 17:06:25
 categories: Projects
 ---
----
-
 A Design Brief **(a written document outlining and strategizing a design project; also called a creative brief.)** is a strategic plan that both the client and design firm or advertising agency agree upon, a written document outlining and strategizing a design project or creative work plan. (Strategy can be determined outside a design brief, as well.) This is most important for designers and the creative team. Strategy is a springboard for conceptual development.
 
 Most design briefs are made up of questions and answers—a format used in an attempt to fully understand the assignment, the objectives of the project, the design context, and the audience. The answers to questions delineated in a design brief are usually based on predesign (preliminary) market research and information gathered about the product, service or group, and audience. Answers are predicated on the budget.
@@ -14,9 +12,9 @@ Finally, the design brief becomes the strategic plan for implementing objectives
 
 The document below is what was presented in class. It presents important questions that you will need to answer for this project. The criteria for your Design Brief will differ from the document below. For now, you should just focus on brand ideation.
 
-<a href=https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0 target="_blank">Design Brief and Case Study Example</a>
+<a href="https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0" target="_blank">Design Brief and Case Study Example</a>
 
-<a href="#"><img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg" target="_blank" /></a>
+<a href="#" class="madtinker_main"><img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg" target="_blank" /></a>
 
 **Do NOT start with creating your Design Brief.**The above pdf is an EXAMPLE and an example only. Your Design brief will follow different criteria. You should only concentrate on conceptualizing. We will discuss this further in class.
 
@@ -24,7 +22,7 @@ The document below is what was presented in class. It presents important questio
 
 **Student Examples**
 
-NOTE: These Design Briefs were made by students in a class with different parameters. REMEMBER: You are limited to a unique fictional product.
+**NOTE:** These Design Briefs were made by students in a class with different parameters. REMEMBER: You are limited to a unique fictional product.
 
 <a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" _target="_blank"/>https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0</a>
 
@@ -41,7 +39,7 @@ By Laura Busche on Nov 21, 2018
 
 Clear communication is the key to success in design projects, and all kinds of creative projects for that matter. We tend to think that just because something is crystal clear in our minds, it’s immediately available for others to see and understand. In reality, unless we paint that picture in a detailed, organized way, others simply can’t deliver what we expect them to. And that is precisely why I have a feeling that, after reading this article, **graphic design briefs** will become your new best friends. Essentially, a graphic design brief is a document that captures the vision for a creative project and outlines the client’s expectations for the end result.
 
-# Some general advice for effective briefs
+## Some general advice for effective briefs
 
 Great creative teamwork depends on your ability to express expectations and background information in a way that allows producers to do their job. Here are some of the keys to more effective graphic design briefs that align everyone around your vision.
 
@@ -52,7 +50,7 @@ Great creative teamwork depends on your ability to express expectations and back
 - **Context**. Don’t assume producers have enough background about your brand or industry to proceed confidently. Give them that background. Lack of proper competitive context or knowledge about the business model hurt anyone’s chances at creating work that truly resonates with the brand’s audience. Likewise, don’t make the assumption that an external producer is aware of any brand guidelines or visual treatments you’ve used in the past. If your goal is to have them follow some kind of pattern, be specific about what that pattern has looked like in the past.
 - **Openness**. As precise as your specifications for deliverables should be, when it comes down to the creative concept itself you should try to strike a balance between prescriptive and flexible instructions. You want to be mindful of your producer’s expertise, but also provide enough direction that they feel confident using their skills.
 
-# Essential sections in a design brief
+## Essential sections in a design brief
 
 Taking the above into account, here are some useful sections to include in your graphic design brief:
 
