@@ -4,7 +4,7 @@ layout: post
 title:  "Flexbox Grid"
 date:   2020-04-25 20:03:11
 category: code
-
+---
 ---
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="ndangelo" data-slug-hash="WNNXjry" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Flexbox 12-Column Grid Example">
