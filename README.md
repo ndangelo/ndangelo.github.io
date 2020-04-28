@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd9954c8-2cf0-4a8f-bd38-bf49bc9d4639/deploy-status)](https://app.netlify.com/sites/affectionate-colden-e04794/deploys)
+
 Solar Theme for Jekyll
 ======================
 
