@@ -9,15 +9,15 @@ categories: Drawing
 
 <span style="text-align: center;">Hans Thiemann</span>
 
-##Assignment
+## Assignment
 
 **In your sketchbook complete the following:**
 
--- Create a simple geometric shape using a ruler.
--- Create and build multiple shapes within it.
--- Create intersecting points.
--- When you have completed your finished drawings and they have been approved. Use Three colors to accent some of the shapes.
--- Before you start the above projects create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
+- Create a simple geometric shape using a ruler.
+- Create and build multiple shapes within it.
+- Create intersecting points.
+- When you have completed your finished drawings and they have been approved. Use Three colors to accent some of the shapes.
+- Before you start the above projects create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
 
 
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13140901/2020-02-13-13_07_04-Window.png" /></div>
