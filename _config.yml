@@ -20,7 +20,6 @@ nav:
   Home:           
     - '/'
   Blog:           
-    - '/blog/'
     - { Categories: '/categories/' }
     - { Tags: '/tags/' }
   About:          
