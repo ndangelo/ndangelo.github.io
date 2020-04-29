@@ -9,7 +9,9 @@ categories: Drawing
 
 <span style="text-align: center;">Hans Thiemann</span>
 
-## Assignment
+Assignment
+
+---------------
 
 **In your sketchbook complete the following:**
 
@@ -38,3 +40,4 @@ Use a common object to create an analytical drawing.
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13141632/2020-02-13-13_16_05-Window.png" /></div>
 	
 	
+> This is a blockquote example in markdown.
