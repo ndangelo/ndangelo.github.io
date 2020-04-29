@@ -38,10 +38,10 @@ The document below is what was presented in class. It presents important questio
 
 The following is a template you may use for your Design Brief.
 
-<a href="https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx" target="_blank">Download Here</a>
+<a href="https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx" target="_blank" />Download Here</a>
 
 
-<img src="https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg" />
+<div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg" /></div>
 
 By Laura Busche on Nov 21, 2018
 
