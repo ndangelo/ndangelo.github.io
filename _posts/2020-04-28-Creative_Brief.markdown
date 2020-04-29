@@ -28,9 +28,12 @@ The document below is what was presented in class. It presents important questio
 
 **NOTE:** These Design Briefs were made by students in a class with different parameters. REMEMBER: You are limited to a unique fictional product.
 
+
 <a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example 1</a>
 
+
 <a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example 2</a>
+
 
 The following is a template you may use for your Design Brief.
 
