@@ -12,5 +12,16 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 
 # Where are tags and categories displayed
-tag_page: 'tags/'
-category_page: 'categories/'
+tag_page: '/tags/'
+category_page: '/categories/'
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/categories/' }
+    - { Tags: '/tags/' }
+  About:          
+    - '/about/'
