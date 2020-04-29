@@ -1,9 +1,10 @@
 name: Custom
 pygments: false
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: The Mad Tinker
 
 permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title/
 paginate: 10
 
 gems: [jekyll-paginate]
