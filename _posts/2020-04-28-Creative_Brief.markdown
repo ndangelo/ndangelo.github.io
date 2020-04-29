@@ -3,7 +3,11 @@ layout: post
 title:  "Creative Brief"
 date:   2028-04-28 17:06:25
 categories: Projects
+
+
 ---
+
+
 A Design Brief **(a written document outlining and strategizing a design project; also called a creative brief.)** is a strategic plan that both the client and design firm or advertising agency agree upon, a written document outlining and strategizing a design project or creative work plan. (Strategy can be determined outside a design brief, as well.) This is most important for designers and the creative team. Strategy is a springboard for conceptual development.
 
 Most design briefs are made up of questions and answers—a format used in an attempt to fully understand the assignment, the objectives of the project, the design context, and the audience. The answers to questions delineated in a design brief are usually based on predesign (preliminary) market research and information gathered about the product, service or group, and audience. Answers are predicated on the budget.
@@ -24,9 +28,9 @@ The document below is what was presented in class. It presents important questio
 
 **NOTE:** These Design Briefs were made by students in a class with different parameters. REMEMBER: You are limited to a unique fictional product.
 
-<a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example I</a>
+<a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example 1</a>
 
-<a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example II</a>
+<a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example 2</a>
 
 The following is a template you may use for your Design Brief.
 
