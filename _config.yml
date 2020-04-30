@@ -3,7 +3,7 @@ pygments: false
 url: http://example.org
 description: The Mad Tinker
 
-permalink: /:year/:month/:day/:title/
+# permalink: /:year/:month/:day/:title/
 permalink: /:categories/:title/
 paginate: 10
 
@@ -11,11 +11,8 @@ gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 
-<<<<<<< HEAD
-
-=======
 # Where are tags and categories displayed
-<<<<<<< HEAD
+
 tag_page: '/tags/'
 category_page: '/categories/'
 
@@ -28,8 +25,7 @@ nav:
     - { Tags: '/tags/' }
   About:          
     - '/about/'
->>>>>>> parent of 4572187... Update _config.yml
-=======
+
+
 tag_page: 'tags/'
 category_page: 'categories/'
->>>>>>> parent of baf85e4... Update _config.yml
