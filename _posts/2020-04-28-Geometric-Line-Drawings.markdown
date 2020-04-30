@@ -2,7 +2,7 @@
 layout: post
 title:  "Geometric Line Drawings"
 date:   2020-04-28 17:06:25
-categories: Drawing
+category: Drawing
 ---
 
 <img src="https://s3.amazonaws.com/image-control-storage/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png" />
