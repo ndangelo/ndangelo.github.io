@@ -15,6 +15,7 @@ highlighter: rouge
 
 =======
 # Where are tags and categories displayed
+<<<<<<< HEAD
 tag_page: '/tags/'
 category_page: '/categories/'
 
@@ -28,3 +29,7 @@ nav:
   About:          
     - '/about/'
 >>>>>>> parent of 4572187... Update _config.yml
+=======
+tag_page: 'tags/'
+category_page: 'categories/'
+>>>>>>> parent of baf85e4... Update _config.yml
