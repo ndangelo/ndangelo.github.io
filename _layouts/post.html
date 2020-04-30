@@ -53,18 +53,14 @@
               <li><a class="nav-menu" href="/open-color/chromatic-colors.html">Chromatic Color</a></li>-->
             </ul>
           </li>
-           <li class="nav-menus-group">
-
-            <button class="menus-title" type="button"><a href="categories/" >Code</a></button>
-
-            <button class="menus-title" type="button"><a href="categories.html" >Code</a></button>
-
-           <ul class="nav-menus">
-              <li><a class="nav-menu" href="#" download>Hope</a></li>
-              <!--<li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
+          <li class="nav-menus-group">
+            <!--<button class="menus-title" type="button">Downloads</button>-->
+            <ul class="nav-menus">
+              <!--<li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.6.3/open-color.zip" download>Source code</a></li>
+              <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
             </ul>
           </li>
-          <li class="nav-menus-group"><a class="git_img" href="#"><img src="https://www.madtinker.net/images/Github_sm.png"></a></li>
+          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="https://www.madtinker.net/images/Github_sm.png"></a></li>
         </ul>
       </div>
     </div>
@@ -98,56 +94,13 @@
 			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
 		</h1>
 	{% else %}
-  
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 	{% endif %}
-
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
-{{ page.date | date: "%b %d, %Y" }}
 
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
-
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-
-
-
-<div class="related">
-    <h3>Related Posts</h3>
-    {% assign firstCategory = page.categories | first %}
-    {% assign relatedCount = 0 %}
-    {% for related in site.categories[firstCategory] %}
-        {% unless page.permalink == related.permalink %}
-            {% assign relatedCount = relatedCount | plus: 1 %}
-            <a href="{{related.permalink}}">{{ related.title }}</a>
-        {% endunless %}
-
-        {% if relatedCount == 3 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
-</div>
-
-
-<h1>{{ page.title }}</h1>
-<div class="tags">
-    {% assign sortedCategories = page.categories | sort %}
-    {% for category in sortedCategories %}
-        <span class="tag">
-            <a href="/category/{{ category }}">#{{ category }}</a>
-        </span>
-    {% endfor %}
-</div>
 
  <br/><br/><br/>
 </div>
