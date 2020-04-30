@@ -5,7 +5,6 @@ title:  "Advanced Projects for Intro to Web Design"
 date:   2020-04-29 20:03:11
 categories: 
 - Code
-
 ---
 
 
