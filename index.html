@@ -17,33 +17,6 @@ title: Custom Theme
 		{% endif %}
 	  	<!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
-Posted on {{ post.date | date: "%b %d, %Y" }}
-<br/>
-		<div class="post-content">{{ post.content }}</div>
-
-	</article>
-
-{% endfor %}
-
-<!-- -->
-
-<ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
 
 {% if paginator.total_pages > 1 %}
 	<div class="postnavigation">
