@@ -6,6 +6,7 @@ categories:
 	- Code
 
 ---
+...
 
 **Web Design is messy.** Tutorials can be great – but it is not only always the best way to learn.
 
