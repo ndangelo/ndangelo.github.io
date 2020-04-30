@@ -6,6 +6,7 @@ categories:
 	- Code
 
 ---
+...
 
 {% highlight ruby linenos %}
 def foo
