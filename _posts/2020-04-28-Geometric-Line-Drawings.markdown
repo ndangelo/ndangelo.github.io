@@ -5,13 +5,13 @@ date:   2020-04-28 17:06:25
 categories: [Drawing]
 ---
 
+
 <img src="https://s3.amazonaws.com/image-control-storage/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png" />
 
 <span style="text-align: center;">Hans Thiemann</span>
 
-Assignment
+##Assignment##
 
----------------
 
 **In your sketchbook complete the following:**
 
