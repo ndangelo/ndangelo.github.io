@@ -3,8 +3,8 @@ pygments: false
 url: https://madtinker.net
 description: The Mad Tinker
 
-# permalink: /:year/:month/:day/:title/
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
+# permalink: /:categories/:title/
 paginate: 5
 
 gems: [jekyll-paginate]
