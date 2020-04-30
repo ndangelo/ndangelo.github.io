@@ -2,7 +2,8 @@
 layout: post
 title:  "Creative Brief"
 date:   2020-04-28 17:06:25
-category: Projects
+categories: 
+- projects
 
 
 ---
