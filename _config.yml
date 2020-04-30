@@ -3,9 +3,9 @@ pygments: false
 url: http://example.org
 description: The Mad Tinker
 
-permalink: /:year/:month/:day/:title/
+
 permalink: /:categories/:title/
-paginate: 10
+paginate: 5
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
