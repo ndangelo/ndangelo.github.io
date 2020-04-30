@@ -1,29 +1,10 @@
 name: Custom
-pygments: false
-url: https://madtinker.net
-description: The Mad Tinker
+url: http://example.org
+description: A stylish blog using the Solarized color palette
 
 permalink: /:year/:month/:day/:title/
-# permalink: /:categories/:title/
-paginate: 5
+paginate: 10
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
-
-# Where are tags and categories displayed
-
-
-# Navigation (2nd level links supported)
-nav:
-  Home:           
-    - '/'
-  Blog:           
-    - { Categories: '/categories/' }
-    - { Tags: '/tags/' }
-  About:          
-    - '/about/'
-
-
-tag_page: 'tags/'
-category_page: 'categories/'
