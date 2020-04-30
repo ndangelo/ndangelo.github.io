@@ -102,7 +102,7 @@
 	{% endif %}
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
-
+{{ page.date | date: "%b %d, %Y" }}
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
 
@@ -117,7 +117,7 @@
 {% endfor %}
 
 
-<!-- 
+
 
 <div class="related">
     <h3>Related Posts</h3>
@@ -134,8 +134,8 @@
         {% endif %}
     {% endfor %}
 </div>
--->
->>>>>>> parent of d613194... Update post.html
+
+
 <h1>{{ page.title }}</h1>
 <div class="tags">
     {% assign sortedCategories = page.categories | sort %}
