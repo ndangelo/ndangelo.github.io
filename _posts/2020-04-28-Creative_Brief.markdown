@@ -27,10 +27,10 @@ The document below is what was presented in class. It presents important questio
 
 
 
-<a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example</a>
+<span><a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example</a></span>
 
 
-<a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example</a>
+<span><a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example</a></span>
 
 
 The following is a template you may use for your Design Brief.
