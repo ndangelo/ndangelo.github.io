@@ -10,7 +10,7 @@ categories: [Art]
 
 <span style="text-align: center;">Hans Thiemann</span>
 
-##Assignment##
+<h2>Assignment</h2>
 
 
 **In your sketchbook complete the following:**
