@@ -27,15 +27,15 @@ The document below is what was presented in class. It presents important questio
 
 
 
-<span><a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example</a></span>
+<span><a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>[Design Brief Example]</a></span>
 
 
-<span><a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example</a></span>
+<span><a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>[Design Brief Example]</a></span>
 
 
 The following is a template you may use for your Design Brief.
 
-<a href="https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx" target="_blank" />Download Here</a>
+<a href="https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx" target="_blank" />[Download Here]</a>
 
 
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg" /></div>
