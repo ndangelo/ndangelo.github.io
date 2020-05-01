@@ -28,9 +28,9 @@ What kind of media could you include:
 - Vimeo
 - and many others
 
-##Codepen.io
+<h2>Codepen.io<h2>
 
-If you are feeling very adventurous you can add content from [codepen.io](http://www.codepen.io){target="_blank"}.
+If you are feeling very adventurous you can add content from <a href="http://www.codepen.io" target="_blank">codepen.io</a>
 
 This is some **VERY advanced code**. Only utilize it if you feel comfortable. You will need to create a free account to use it. The free account is totally free. It is not a trial.
 
