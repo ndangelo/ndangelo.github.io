@@ -13,9 +13,9 @@ Finally, the design brief becomes the strategic plan for implementing objectives
 
 The document below is what was presented in class. It presents important questions that you will need to answer for this project. The criteria for your Design Brief will differ from the document below. For now, you should just focus on brand ideation.
 
-<a href="https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0" target="_blank">Design Brief and Case Study Example</a>
+<a href="https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0" target="_blank">Design Brief and Case Study Example</a><i class="fas fa-external-link-alt"></i>
 
-<a href="#" class="madtinker_main"><img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg" target="_blank" /></a>
+<a href="#" class="madtinker_main"><img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg" target="_blank" /></a><i class="fas fa-external-link-alt"></i>
 
 **Do NOT start with creating your Design Brief.**The above pdf is an EXAMPLE and an example only. Your Design brief will follow different criteria. You should only concentrate on conceptualizing. We will discuss this further in class.
 
@@ -27,15 +27,15 @@ The document below is what was presented in class. It presents important questio
 
 
 
-[Design Brief Example](https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0)f35d
+[Design Brief Example](https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0)<i class="fas fa-external-link-alt"></i>
 
 
-[Design Brief Example](https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0)f35d
+[Design Brief Example](https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0)<i class="fas fa-external-link-alt"></i>
 
 
 The following is a template you may use for your Design Brief.
 
-[Download Here](https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx)f35d
+[Download Here](https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx)<i class="fas fa-external-link-alt"></i>
 
 
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg" /></div>
