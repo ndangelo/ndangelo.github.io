@@ -26,7 +26,7 @@ categories: [Art]
 
 Use a common object to create an analytical drawing.
 
-<div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13141310/2020-02-13-13_11_31-Window.png" /></div>
+<div class="madtinker_main fas fa-external-link-alt"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13141310/2020-02-13-13_11_31-Window.png" /></div>
 
 
 
