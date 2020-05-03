@@ -6,7 +6,7 @@ categories: [Art]
 ---
 
 
-<img src="https://s3.amazonaws.com/image-control-storage/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png" />
+<img src="https://s3.amazonaws.com/image-control-storage/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png" /><i class="fas fa-external-link-alt"></i>
 
 <span style="text-align: center;">Hans Thiemann</span>
 
