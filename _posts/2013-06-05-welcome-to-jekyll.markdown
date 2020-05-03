@@ -58,6 +58,6 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 <div class="note"><h5>I'm Really Glad This Worked</h5></div>
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+[jekyll-gh]: https://github.com/mojombo/jekyll @external-link-alt
+[jekyll]:    http://jekyllrb.com @external-link-alt
 ---
