@@ -13,7 +13,7 @@ categories: [Video]
 
 <ul>
   {% for post in site.categories.Video %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {{ post.excerpt }}
     </li>
   {% endfor %}
