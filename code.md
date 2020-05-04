@@ -13,7 +13,7 @@ categories: [Code]
 
 <ul>
   {% for post in site.categories.Code %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {{ post.excerpt }}
     </li>
   {% endfor %}
