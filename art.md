@@ -12,7 +12,7 @@ categories: [Art]
 
 <ul>
   {% for post in site.categories.Art %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {{ post.excerpt }}
     </li>
   {% endfor %}
