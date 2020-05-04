@@ -12,9 +12,9 @@ categories: [Projects]
 
 <ul>
   {% for post in site.categories.Projects %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a> </h1>
       {{ post.excerpt }}
-    </h1>
+   
   {% endfor %}
 </ul>
 ---
