@@ -13,6 +13,7 @@ categories: [Projects]
 <ul>
   {% for post in site.categories.Projects %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a> </h1>
+    <span>{{ post.date | date_to_string }}</span>
       {{ post.excerpt }}
    
   {% endfor %}
