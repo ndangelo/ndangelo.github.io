@@ -30,7 +30,7 @@ What kind of media could you include:
 
 <h2>Codepen.io<h2>
 
-If you are feeling very adventurous you can add content from <a href="http://www.codepen.io" target="_blank">codepen.io</a>
+If you are feeling very adventurous you can add content from <a href="http://www.codepen.io" target="_blank">codepen.io&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color:#339af0;"></i></a>
 
 This is some **VERY advanced code**. Only utilize it if you feel comfortable. You will need to create a free account to use it. The free account is totally free. It is not a trial.
 
