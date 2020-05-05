@@ -14,3 +14,8 @@
 .post-content {
         font-size: 1.3em;
 }
+
+img {
+
+	max-width: 800px;
+}
