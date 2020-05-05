@@ -15,3 +15,6 @@ baseurl: /
 
 plugins:
   - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - jekyll-responsive_image
