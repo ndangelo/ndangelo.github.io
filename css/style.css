@@ -7,7 +7,7 @@
 @media (max-width: 543px){
 	.container{padding-left:4.8%;padding-right:4.8%}}
 
-	@media (min-width: 1200px){
+	/*@media (min-width: 1200px){
 		.container{max-width:1200px}
 		.row,.color-chips{margin-left:-2px;margin-right:-2px}
 		.row:before,
@@ -18,7 +18,7 @@
 		.col-half{position:relative;min-height:1px;
 			padding-right:2px;padding-left:2px;
 			float:left;
-			width:100%}
+			width:100%}*/
 
 
 			@media (min-width: 768px){
