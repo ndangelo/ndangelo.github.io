@@ -7,10 +7,10 @@ h1 {
 
 }
 
-@media (min-width: 768px)
+/*@media (min-width: 768px)
 .note {
     margin-left: -50px;
-}
+}*/
 .note {
     font-family: 'Montserrat', sans-serif;
     color: white;
