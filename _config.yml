@@ -12,3 +12,6 @@ gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 baseurl: /
+
+plugins:
+  - jekyll-gist
