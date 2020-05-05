@@ -22,18 +22,18 @@ categories: [Art]
 - Before you start the above projects create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
 
 
-<div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13140901/2020-02-13-13_07_04-Window.png" /></div>
+<img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/2020/02/13140901/2020-02-13-13_07_04-Window.png" />
 
 Use a common object to create an analytical drawing.
 
-<div class="madtinker_main fas fa-external-link-alt"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13141310/2020-02-13-13_11_31-Window.png" /></div>
+<div><img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/2020/02/13141310/2020-02-13-13_11_31-Window.png" />
 
 
 
 <p>Use collections of objects to help you form your lines and curves.</p>
 
 
-<div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/13141328/2020-02-13-13_12_10-Window.png" /></div>
+<img class="madtinker_main" src="https://s3.amazonaws.com/image-control-storage/2020/02/13141328/2020-02-13-13_12_10-Window.png" />
 
 
 
