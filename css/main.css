@@ -7,13 +7,13 @@
         justify-content: center;
         flex-direction: column;
         width: 100%;
+        max-width: 800px;
         text-align: center;
         align-items: center;
     }
 
 .post-content {
-        font-size: 1.2em;
-        max-width: 960px;
+        font-size: 1.3em;
 }
 
 /*img {
