@@ -15,4 +15,3 @@ baseurl: /
 
 plugins:
   - jekyll-gist
-  - jekyll-responsive_image
