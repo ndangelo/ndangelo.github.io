@@ -9,7 +9,7 @@
 	width:1000px;}
 .container:before,.container:after{content:" ";display:table}
 .container:after{clear:both}
-@media screen and (min-width: 543px){
+@media screen and (min-width: 500px){
 	.container{
 		width: 400px;
 		padding-left:4.8%;
@@ -25,9 +25,7 @@
 		padding-left:4.8%;
 		padding-right:4.8%}}
 */
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 div.navigation {
 	height:1px;
 }
