@@ -1,4 +1,7 @@
 
+div.navigation {
+	height:50px;
+}
 .clearfix:before,
 .clearfix:after {
   content: " ";
