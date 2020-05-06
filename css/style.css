@@ -6,7 +6,7 @@
 	margin-right:auto;
 	padding-left:4%;
 	padding-right:4%;
-	width:400px;}
+	width:450px;}
 .container:before,.container:after{content:" ";display:table}
 .container:after{clear:both}
 
