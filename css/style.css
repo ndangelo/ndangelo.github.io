@@ -1,12 +1,12 @@
 
-/*.clearfix:before,.clearfix:after{content:" ";display:table}
+.clearfix:before,.clearfix:after{content:" ";display:table}
 .clearfix:after{clear:both}
 .container{
 	margin-left:auto;
 	margin-right:auto;
 	padding-left:4%;
 	padding-right:4%;
-	width:1000px;}*/
+	width:1000px;}
 .container:before,.container:after{content:" ";display:table}
 .container:after{clear:both}
 @media screen and (min-width: 543px){
@@ -25,7 +25,9 @@
 		padding-left:4.8%;
 		padding-right:4.8%}}
 */
-
+div.navigation {
+	height:1px;
+}
 .clearfix:before,
 .clearfix:after {
   content: " ";
@@ -35,7 +37,6 @@
   clear: both;
 }
 .container {
-top: -50px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 4%;
