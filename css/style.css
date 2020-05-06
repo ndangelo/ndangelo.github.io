@@ -290,6 +290,7 @@ a.blog-logo {
   }
 }
 .cover {
+	height: 200px;
   padding: 10px 0;
   border-bottom: 1px solid #dee2e6;
 }
