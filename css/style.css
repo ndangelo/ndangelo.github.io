@@ -33,14 +33,14 @@
 .clearfix:after {
   clear: both;
 }
-.container {
+/*.container {
   margin-left: auto;
   margin-right: auto;
   padding-left: 4%;
   padding-right: 4%;
   max-width: 1000px;
 
-}
+}*/
 .container:before,
 .container:after {
   content: " ";
