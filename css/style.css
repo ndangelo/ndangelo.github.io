@@ -11,7 +11,7 @@
 .container:after{clear:both}
 @media screen and (min-width: 543px){
 	.container{
-		width: 500px;
+		width: 400px;
 		padding-left:4.8%;
 		padding-right:4.8%}}
 @media screen and (min-width: 768px){
