@@ -1,9 +1,7 @@
-
 ---
 Title: 50 + Examples of Still Life Ideas
 Date: May 8, 2020
 Categories: [Art]	
-	
 ---
 			
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140238/still-life-drawing-ideas-high-school-2.jpg" alt="50+ Still life ideas for high school Art students" class="wp-image-6781"/></figure>
