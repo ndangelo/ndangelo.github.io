@@ -4,7 +4,7 @@ Date: May 8, 2020
 Categories: [Art]	
 ---
 			
-<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140238/still-life-drawing-ideas-high-school-2.jpg" alt="50+ Still life ideas for high school Art students" class="wp-image-6781"/></figure>
+<div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140238/still-life-drawing-ideas-high-school-2.jpg" alt="50+ Still life ideas for high school Art students" class="wp-image-6781"/></div>
 
 
 
@@ -12,7 +12,7 @@ Categories: [Art]
 
 
 
-<blockquote class="madtinker_main"><p>A work of art depicting mostly inanimate subject matter, typically commonplace objects which may be either natural or man-made</p></blockquote>
+<blockquote><p>A work of art depicting mostly inanimate subject matter, typically commonplace objects which may be either natural or man-made</p></blockquote>
 
 
 
@@ -44,7 +44,7 @@ Categories: [Art]
 
 
 
-<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140240/drawing-ellipses-1.jpg" alt="drawing ellipses: Styrofoam cups" class="wp-image-6791"/><figcaption>This is an excellent drawing activity to help students understand how to represent ellipses (the oval shape that is visible when a circle is viewed from angle). The hollow truncated cones become surrounded by shadows and beautiful pockets of curving negative space, creating a superb still life drawing lesson. Photo courtesy East City Art.</figcaption></figure>
+<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140240/drawing-ellipses-1.jpg" alt="drawing ellipses: Styrofoam cups" /><figcaption>This is an excellent drawing activity to help students understand how to represent ellipses (the oval shape that is visible when a circle is viewed from angle). The hollow truncated cones become surrounded by shadows and beautiful pockets of curving negative space, creating a superb still life drawing lesson. Photo courtesy East City Art.</figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ Categories: [Art]
 
 
 
-<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140241/typewriter-drawing-1.jpg" alt="typewriter drawing - great still life idea" class="wp-image-6792"/><figcaption>When the inner workings of mechanical items are exposed, there are often endless opportunities for art-making. In this observational drawing, the complex letter keys, crunched paper and detailed ink ribbon contrast the smooth surfaces of the typewriter and tabletop.</figcaption></figure>
+<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140241/typewriter-drawing-1.jpg" alt="typewriter drawing - great still life idea" /><figcaption>When the inner workings of mechanical items are exposed, there are often endless opportunities for art-making. In this observational drawing, the complex letter keys, crunched paper and detailed ink ribbon contrast the smooth surfaces of the typewriter and tabletop.</figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@ Categories: [Art]
 
 
 
-<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140242/roy-lichtenstein-still-life-1.jpg" alt="Roy Lichtenstein still life" class="wp-image-6783"/><figcaption>Many high school Art projects within New Zealand are based around the beach and coastline. Items such as rope, floats, hooks, anchors, driftwood and fishing nets provide an excellent subject matter for still life works due to the variety of shapes, forms, patterns and surface textures. The items are usually large and substantial enough that a still life arrangement in the centre of the room can be viewed easily by all students. These two works by American Pop artist, Roy Lichtenstein, ‘Cape Cod Still life’ and ‘Cape Cod Still Life (Study)’ show nets and rope entangled around an driftwood and shells. The bottom work is an oil and Magna (a brand of acrylic resin paint) completed in 1972, with a drawn composition study above.</figcaption></figure>
+<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140242/roy-lichtenstein-still-life-1.jpg" alt="Roy Lichtenstein still life" /><figcaption>Many high school Art projects within New Zealand are based around the beach and coastline. Items such as rope, floats, hooks, anchors, driftwood and fishing nets provide an excellent subject matter for still life works due to the variety of shapes, forms, patterns and surface textures. The items are usually large and substantial enough that a still life arrangement in the centre of the room can be viewed easily by all students. These two works by American Pop artist, Roy Lichtenstein, ‘Cape Cod Still life’ and ‘Cape Cod Still Life (Study)’ show nets and rope entangled around an driftwood and shells. The bottom work is an oil and Magna (a brand of acrylic resin paint) completed in 1972, with a drawn composition study above.</figcaption></figure>
 
 
 
