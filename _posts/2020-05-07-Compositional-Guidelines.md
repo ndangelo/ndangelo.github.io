@@ -1,14 +1,13 @@
 ---
-Title: Compositional Guidelines
-Date: April 7, 2020
-Categories: [Art]	
+layout: post
+title: Compositional Guidelines
+date:  2020-05-07 20:03:11
+categories: [Art]	
 ---
 
-<h3>Teaching Art &#8211; Composition</h3>
+###Teaching Art &#8211; Composition
 
-
-
-<h3>Finding the visual sweet spots&nbsp;</h3>
+####>Finding the visual sweet spots&nbsp;
 
 
 
@@ -141,12 +140,3 @@ Categories: [Art]
 
 
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140357/Rembrandt_The_Artist_in_his_studio-03-2.jpg" alt="Example of asymmetrical balance creating a sense of contrast. The Artist in his Studio by Rembrandt."/><figcaption>Example of asymmetrical balance creating a sense of contrast. The Artist in his Studio by Rembrandt.</figcaption></figure>
-
-
-
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-communication-art-design-amp-instruction"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="4qBi9RDXMy"><a href="https://www.nuggetofjoy.com/50-still-life-drawing-ideas/">50 + Still Life Drawing Ideas</a></blockquote><iframe title="&#8220;50 + Still Life Drawing Ideas&#8221; &#8212; Communication, Art, Design &amp; Instruction" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.nuggetofjoy.com/50-still-life-drawing-ideas/embed/#?secret=4qBi9RDXMy" data-secret="4qBi9RDXMy" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-			
-	
-</div>
