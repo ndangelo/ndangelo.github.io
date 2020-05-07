@@ -60,4 +60,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh](https://github.com/mojombo/jekyll) &nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color:#339af0;"></i>
 [jekyll](http://jekyllrb.com)&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color:#339af0;"></i>
+
 ---
