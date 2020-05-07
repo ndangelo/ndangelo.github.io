@@ -20,18 +20,17 @@ html {
     font-size: 1em;
 }
 
-/*img {
+img {
 	width:100%;
 	max-width: 600px;
-
-}*/
+    margin: 15px;
+}
 
 figcaption {
-
 margin-top: 10px;
 margin-bottom: 20px;
 font-size: .8em;
 color: #999999;
 border: solid 1px #999999;
-width: 80%;
+width: 95%;
 }
