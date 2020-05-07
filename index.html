@@ -5,6 +5,8 @@ title: Custom Theme
 ---
 
 {% for post in paginator.posts %}
+   {{ post.date | date: "%x" }}
+{% endfor %}
 
 	<article class="post">
 
@@ -18,7 +20,7 @@ title: Custom Theme
 		{% endif %}
 		<p class="meta">Posted on <!--<span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
-{{ page.date | date: "%b %d, %Y" }}</p>
+{{ site.time | date_to_long_string }}</p>
 
 <br/>
 		<div class="post-content">{{ post.content }}</div>
@@ -32,11 +34,6 @@ title: Custom Theme
 <!--{% for post in site.categories.Code %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}-->
-
-
-
-
-
 
 
 {% if paginator.total_pages > 1 %}
