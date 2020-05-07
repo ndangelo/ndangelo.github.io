@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Video Archives"
-date:   2020-04-24 20:03:11
 categories: [Video]
 ---
 
