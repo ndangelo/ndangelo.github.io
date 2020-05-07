@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Compositional Guidelines
 date:  2020-05-07 20:03:11
 categories: [Art]	
