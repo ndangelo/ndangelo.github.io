@@ -75,6 +75,7 @@ h1 {
 
 blockquote {
     font-family: 'Montserrat', sans-serif;
+    text-align: left;
     color: white;
     margin: 30px 0;
     margin-left: -30px;
