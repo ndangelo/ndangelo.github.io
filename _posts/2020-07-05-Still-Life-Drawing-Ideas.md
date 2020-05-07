@@ -12,7 +12,7 @@ Categories: [Art]
 
 
 
-<blockquote><p>A work of art depicting mostly inanimate subject matter, typically commonplace objects which may be either natural or man-made</p></blockquote>
+<blockquote>A work of art depicting mostly inanimate subject matter, typically commonplace objects which may be either natural or man-made</blockquote>
 
 
 
