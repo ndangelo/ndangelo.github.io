@@ -1,8 +1,10 @@
-<div class="col-md-8 col-md-offset-2">			
-		<article id="post-57070" class="post-57070 post type-post status-publish format-standard hentry category-projects">
-			<p class="post-date">Tuesday, April 21, 2020 by admin <a class="post-edit-link" href="https://www.nuggetofjoy.com/wp-admin/post.php?post=57070&#038;action=edit">Edit This</a></p>	
-			<h1 id="post-title">50 + Still Life Drawing Ideas</h1>		
 
+---
+Title: 50 + Examples of Still Life Ideas
+Date: May 8, 2020
+Categories: [Art]	
+	
+---
 			
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140238/still-life-drawing-ideas-high-school-2.jpg" alt="50+ Still life ideas for high school Art students" class="wp-image-6781"/></figure>
 
@@ -330,21 +332,3 @@
 
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140317/drawing-cutlery-1.jpg" alt="drawing cutlery" class="wp-image-6829"/><figcaption>This exercise is one of the most challenging on this list. The still life drawing combines reflective surface, convex and concave forms with small details and knotted string.</figcaption></figure>
 	
-									
-			
-</div>
-<footer>
-		<div id="footer-sidebar" class="container">
-		<div class="row">
-			<div class="col col-md-4 left">
-				
-
-<li id="menu-item-55612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55612"><a href="https://myesu.esu.edu">myesu</a></li>
-</ul></nav>
-		</div>
-	</div>
-</footer>
-
-
-
-<script src="https://www.nuggetofjoy.com/wp-content/cache/minify/d17f3.js"></script>
