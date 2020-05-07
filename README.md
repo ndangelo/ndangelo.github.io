@@ -1,21 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cd9954c8-2cf0-4a8f-bd38-bf49bc9d4639/deploy-status)](https://app.netlify.com/sites/affectionate-colden-e04794/deploys)
-
-Solar Theme for Jekyll
-======================
-
-A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
-
-![Screenshot](http://i.imgur.com/UnnRhkt.png)
-
-
-Features
--------
-
-* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
-* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
-* **Responsive Design** — Solarized adapts to fit any screen size.
-
-
 Installation
 --------------
 
