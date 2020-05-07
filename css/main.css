@@ -6,7 +6,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        width: 100%;
+       /* width: 100%;*/
         max-width: 800px;
         text-align: center;
         align-items: center;
@@ -31,7 +31,6 @@ margin-top: 10px;
 margin-bottom: 20px;
 font-size: .8em;
 color: #999999;
-border: solid 1px #999999;
 width: 100%;
 }
 
@@ -104,7 +103,7 @@ blockquote {
 }
 
 
-@media (min-width: 768px)
+/*@media (min-width: 768px)
 article {
     padding: 40px 40px 30px;
     font-size: 21px;
