@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 50 + Examples of Still Life Ideas
+title: "50 + Examples of Still Life Ideas"
 date:  2020-05-07 20:03:11
 categories: [Art]	
 ---
