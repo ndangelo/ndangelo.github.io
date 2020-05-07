@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Art"
 date:   2020-04-24 20:03:11
 categories: [Art]
