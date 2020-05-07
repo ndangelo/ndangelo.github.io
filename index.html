@@ -4,11 +4,7 @@ title: Custom Theme
 2020-04-24 20:03:11
 ---
 
-{% for post in paginator.posts %}
-   {{ post.date | date: "%x" }}
-{% endfor %}
-
-	<article class="post">
+<article class="post">
 
 		{% if post.external-url %}
 			<h1>
@@ -18,7 +14,7 @@ title: Custom Theme
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
-		<p class="meta">Posted on <!--<span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
+		<p>Posted on <!--<span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
 {{ site.time | date_to_long_string }}</p>
 
