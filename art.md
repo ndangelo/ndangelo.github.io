@@ -11,9 +11,9 @@ categories: [Art]
 {% endfor %}-->
 
 <ul>
-  Posted on {% for post in site.categories.Art %}
+ {% for post in site.categories.Art %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <span>{{ site.time | date_to_long_string }}</span>
+    <span> Posted on {{ site.time | date_to_long_string }}</span>
     <span style="font-size: 1.3em">  {{ post.excerpt }}</span>
   
   {% endfor %}
