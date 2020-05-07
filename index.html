@@ -14,6 +14,7 @@ title: Custom Theme
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
+			{{ page.date | date: "%b %d, %Y" }}
 		<!--<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
 <br/>
