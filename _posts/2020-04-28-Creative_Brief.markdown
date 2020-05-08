@@ -71,3 +71,6 @@ Taking the above into account, here are some useful sections to include in your 
 10. Timeline
 
 The framework I’m proposing above goes from the general to the specific, all the way from a bird’s eye view of the brand to a zoomed in schedule with key dates to consider. That’s precisely the intention: to guide the brief’s reader through a narrative that conveys context, project expectations, and deliverable specifics —in that order.
+
+
+---

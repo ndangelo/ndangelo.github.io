@@ -6,10 +6,6 @@ categories: [Projects]
 ---
 
 
-<!--{% for post in site.categories.Projects %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}-->
-
 <ul>
   {% for post in site.categories.Projects %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a> </h1>
