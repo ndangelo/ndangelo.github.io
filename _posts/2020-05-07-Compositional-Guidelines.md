@@ -5,7 +5,7 @@ date:  2020-05-07 20:03:11
 categories: [Art]	
 ---
 
-###Teaching Art - Composition
+<h3>Teaching Art - Composition</h3>
 
 ####Finding the visual sweet spots
 
