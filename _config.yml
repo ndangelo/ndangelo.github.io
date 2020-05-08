@@ -14,7 +14,3 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 baseurl: /
 
-plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-assets
