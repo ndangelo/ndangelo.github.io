@@ -1,7 +1,7 @@
 name: Custom
 url: http://madtinker.net
 description: The Mad Tinker
-permalink: pretty
+permalink: /:categories/:year/:month/:day/:title/
 
 include:
  - _pages
