@@ -13,12 +13,11 @@ title: Custom Theme
 			</h1>
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
 			{{ article.published_at | date: "%a, %b %d, %y" }}
+			
 		{% endif %}
 
-			<span>{{ post.date | date_to_string }}</span>
-
-		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
 {{ page.date | date: "%b %d, %Y" }}
 <br/>
