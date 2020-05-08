@@ -5,9 +5,9 @@ date:  2020-05-07 20:03:11
 categories: [Art]	
 ---
 
-###Teaching Art &#8211; Composition
+###Teaching Art - Composition
 
-####>Finding the visual sweet spots&nbsp;
+####Finding the visual sweet spots
 
 
 
@@ -140,3 +140,5 @@ categories: [Art]
 
 
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/04/21140357/Rembrandt_The_Artist_in_his_studio-03-2.jpg" alt="Example of asymmetrical balance creating a sense of contrast. The Artist in his Studio by Rembrandt."/><figcaption>Example of asymmetrical balance creating a sense of contrast. The Artist in his Studio by Rembrandt.</figcaption></figure>
+
+---
