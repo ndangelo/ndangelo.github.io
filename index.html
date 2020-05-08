@@ -3,7 +3,13 @@ layout: default
 title: Custom Theme
 ---
 
+<<<<<<< HEAD
 <article class="post">
+=======
+{% for post in paginator.posts %}
+
+	<article class="post">
+>>>>>>> parent of ddffc60... Update index.html
 
 		{% if post.external-url %}
 			<h1>
@@ -17,6 +23,10 @@ title: Custom Theme
 
 		{% endif %}
 
+<<<<<<< HEAD
+=======
+{{ page.date | date: "%b %d, %Y" }}</p>
+>>>>>>> parent of ddffc60... Update index.html
 
 			<!--<span>{{ post.date | date_to_string }}</span>
 		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
@@ -41,6 +51,11 @@ title: Custom Theme
 <!--{% for post in site.categories.Code %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}-->
+
+
+
+
+
 
 
 {% if paginator.total_pages > 1 %}
