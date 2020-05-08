@@ -16,7 +16,7 @@ title: Custom Theme
 		{% endif %}
 			<span>{{ post.date | date_to_string }}</span>
 		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
-
+{{ page.date | date: "%b %d, %Y" }}
 <br/>
 		<div class="post-content">{{ post.content }}</div>
 
