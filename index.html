@@ -3,13 +3,9 @@ layout: default
 title: Custom Theme
 ---
 
-<<<<<<< HEAD
-<article class="post">
-=======
 {% for post in paginator.posts %}
 
 	<article class="post">
->>>>>>> parent of ddffc60... Update index.html
 
 		{% if post.external-url %}
 			<h1>
@@ -18,16 +14,13 @@ title: Custom Theme
 			</h1>
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-
-			{{ article.published_at | date: "%a, %b %d, %y" }}
-
 		{% endif %}
 
-<<<<<<< HEAD
-=======
-{{ page.date | date: "%b %d, %Y" }}</p>
->>>>>>> parent of ddffc60... Update index.html
+		<div class="post-content">{{ post.content }}</div>
 
+	</article>
+
+{% endfor %}
 			<!--<span>{{ post.date | date_to_string }}</span>
 		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
