@@ -2,6 +2,7 @@
 layout: default
 title:  "Art"
 categories: [Art]
+entries_layout: grid
 ---
 
 
