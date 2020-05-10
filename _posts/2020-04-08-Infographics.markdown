@@ -56,9 +56,8 @@ categories: [Art]
 
 <<<<<<< HEAD
 
+# <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
 
-<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
-=======
 <figure class="wp-block-image size-large"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
 >>>>>>> 942211695507b491305e028aba590f5e0537c35c
 
