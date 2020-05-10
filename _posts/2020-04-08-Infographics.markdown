@@ -54,7 +54,7 @@ categories: [Design]
 
 <h2>Here are some infographics to use for inspiration.&nbsp;</h2>
 
-<<<<<<< HEAD
+
 
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
 
