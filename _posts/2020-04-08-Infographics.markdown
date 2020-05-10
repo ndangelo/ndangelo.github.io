@@ -9,6 +9,7 @@ categories: [Art]
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/25160925/what-is-an-infographic1.jpg" alt="" /></div>
 
 
+:thumbsup:
 
 <h3><strong>The information below is in your Creative Brief.</strong></h3>
 
