@@ -73,10 +73,9 @@ blockquote {
 }
 
 .emoji {
-	width: auto;
-height:auto;
+  width: auto;
+  height: auto;
 }
-
 
 /*@media (min-width: 768px)
 article {
