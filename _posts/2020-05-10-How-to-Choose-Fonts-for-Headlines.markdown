@@ -7,8 +7,6 @@ categories: [Design]
 
 <p>Headlines and other short phrases or blocks of text are often set in display type sizes of 18 points and larger. While readability is still important, there is more leeway for using fun or&nbsp;<a href="https://www.thoughtco.com/kinds-of-decorative-typeography-1078016">decorative typefaces</a>&nbsp;in headlines. Beyond what the headline says, it needs contrast—of size or font choice or color—to make it stand out.</p>
 
-<span id="more-5749"></span>
-
 <h3>HOW TO CREATE CONTRAST</h3>
 
 <ol><li><strong>Match headline fonts to the tone of the document.&nbsp;</strong>Choose a font for headlines that is appropriate to the tone and purpose of your publication. Does the font say&nbsp;<em>fun</em>&nbsp;or&nbsp;<em>serious</em>&nbsp;to you?<ul><li>Classic, serif typefaces and neat, orderly decorative fonts are typical of a formal page layout used for official or traditional communications and serious subjects.</li><li>Along with classic serif and sans serif faces, there is often also room for more playful, decorative, or exotic typefaces in informal page layouts as well as child-focused layouts.</li></ul></li></ol>
@@ -23,7 +21,5 @@ categories: [Design]
 
 <ul><li><strong>Don&#8217;t let headlines be squished.&nbsp;</strong>If you don&#8217;t want to spend time kerning your headlines, try fonts that have better letterspacing and don&#8217;t need kerning. It varies from typeface to typeface.</li><li><strong>Use headline fonts consistently.&nbsp;</strong>Try to use the same headline fonts throughout a multi-page publication, using variations consistently as well such as one style for major stories, another for secondary or sidebar articles.</li><li><a href="https://webdesignledger.com/20-fonts-ideal-for-big-and-powerful-headings/" target="_blank" rel="noreferrer noopener">20 Fonts for Big and Powerful Headings</a>&nbsp;includes a lot of sans serif but also some sans serif fonts that work well at display type sizes. (Henry Jones at WDL)</li><li><a href="http://bonfx.com/19-top-font-in-19-top-combinations/" target="_blank" rel="noreferrer noopener">19 Top Fonts in 19 Top Combinations</a>&nbsp;by Douglas Bonneville sets a bit of Lorem ipsum text in several serif&nbsp;and sans serif font combos.</li></ul>
 
-<<<<<<< HEAD
-=======
 </div>
->>>>>>> e82c36e2ed6e1491f911a427dc9b42c16944f99c
+
