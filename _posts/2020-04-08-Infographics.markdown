@@ -58,8 +58,7 @@ categories: [Art]
 
 
 <hr class="wp-block-separator"/>
-						
-<div id="page-links"> <span class="post-page-numbers current" aria-current="page">1</span> <a href="https://www.nuggetofjoy.com/business-infographic-assignment-2020/2/" class="post-page-numbers">2</a></div>		
+							
 		
 <p>Infographics will not just require typical&nbsp;data&nbsp;visualization techniques. There are other common graphics you can use like&nbsp;<strong>badges, stickers, and buttons</strong>&nbsp;to showcase smaller tidbits of&nbsp;information. Think about other alternatives like progress steps in a web form.</p>
 
@@ -101,7 +100,7 @@ categories: [Art]
 
 
 
-<figure class="wp-block-image size-large"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
+<figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
 
 
 
