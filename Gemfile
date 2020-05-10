@@ -6,5 +6,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-coffeescript"
   gem "jekyll-assets"
-  gem "jemoji", "~> 0.10"
+  gem "jemoji", "~> 0.12"
 end
