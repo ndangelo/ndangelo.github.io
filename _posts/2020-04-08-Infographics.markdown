@@ -5,7 +5,6 @@ date: 2020-05-08 17:06:25
 categories: [Art]
 ---
 
-:thumbsup:
 
 <div class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/25160925/what-is-an-infographic1.jpg" alt="" /></div>
 
