@@ -42,7 +42,7 @@ categories: [Art]
 
 <p><strong>Optional Sites:</strong></p>
 
-<p><a href="https://www.canva.com/create/infographics/?clickId=XyswBt1jKxyOWFH0MdV3iVCmUknVBny1I2SgUg0&amp;utm_medium=affiliate&amp;utm_source=Future%20PLC.&amp;irgwc=1" target="_blank" rel="noreferrer noopener" aria-label="Canva (opens in a new tab)">Canva</a></p>
+<p><a href="https://www.canva.com/create/infographics" target="_blank" rel="noreferrer noopener" aria-label="Canva (opens in a new tab)">Canva</a></p>
 
 <p><a href="https://infogr.am">https://infogr.am</a></p>
 
