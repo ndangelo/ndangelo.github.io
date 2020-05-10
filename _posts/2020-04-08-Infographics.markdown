@@ -54,8 +54,6 @@ categories: [Design]
 
 <h2>Here are some infographics to use for inspiration.&nbsp;</h2>
 
-
-
 <figure class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/05185032/animal-lib-queensland-chart.jpg" alt="" class="wp-image-55559"/></figure>
 
 <div class="madtinker_main"><figure class="aligncenter size-large"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/25160855/Infographics-Functions-Art-As-Therapy-2-2.jpg" alt="" class="wp-image-54833"/></figure></div>
