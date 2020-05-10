@@ -4,14 +4,12 @@ description: The Mad Tinker
 permalink: /:title/
 
 include:
- - _pages
- - jemoji
-
+  - _pages
+  - jemoji
 
 paginate: 5
 
 gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ["README.md", "Gemfile.lock", "Gemfile", "Rakefile"]
 highlighter: rouge
 baseurl: /
-
