@@ -81,6 +81,11 @@ article {
     font-size: 21px;
 }
 
+.emoji {
+	width: absolute;
+height: absolute;
+}
+
 
 /*.note:before {
     content: "";
