@@ -72,16 +72,18 @@ blockquote {
   box-sizing: inherit;
 }
 
+.emoji {
+	width: auto;
+height:auto;
+}
+
+
 /*@media (min-width: 768px)
 article {
     padding: 40px 40px 30px;
     font-size: 21px;
 }
 
-.emoji {
-	width: absolute;
-height: absolute;
-}
 
 
 /*.note:before {
