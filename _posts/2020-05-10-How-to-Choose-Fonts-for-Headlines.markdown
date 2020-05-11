@@ -21,7 +21,21 @@ categories: [Design]
 
 <ul><li><strong>Don&#8217;t let headlines be squished.&nbsp;</strong>If you don&#8217;t want to spend time kerning your headlines, try fonts that have better letterspacing and don&#8217;t need kerning. It varies from typeface to typeface.</li><li><strong>Use headline fonts consistently.&nbsp;</strong>Try to use the same headline fonts throughout a multi-page publication, using variations consistently as well such as one style for major stories, another for secondary or sidebar articles.</li><li><a href="https://webdesignledger.com/20-fonts-ideal-for-big-and-powerful-headings/" target="_blank" rel="noreferrer noopener">20 Fonts for Big and Powerful Headings</a>&nbsp;includes a lot of sans serif but also some sans serif fonts that work well at display type sizes. (Henry Jones at WDL)</li><li><a href="http://bonfx.com/19-top-font-in-19-top-combinations/" target="_blank" rel="noreferrer noopener">19 Top Fonts in 19 Top Combinations</a>&nbsp;by Douglas Bonneville sets a bit of Lorem ipsum text in several serif&nbsp;and sans serif font combos.</li></ul>
 
+<<<<<<< HEAD
 </div>
 
+=======
+<<<<<<< HEAD
+
+# </div>
+
+# <<<<<<< HEAD
+
+# <<<<<<< HEAD
+
+> > > > > > > 515567a5703866c6882ce7a5462cc3717147f5d1
+
+> > > > > > > a284e9501d451d6ff6970e22d211d3f2013c7b52
+>>>>>>> 41d092f7fa979fc021d710cf36d976541f403014
 
 </div>
