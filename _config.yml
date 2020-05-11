@@ -6,6 +6,7 @@ permalink: /:title/
 include:
   - _pages
   - jemoji
+  - jekyll-scholar
 
 paginate: 5
 
