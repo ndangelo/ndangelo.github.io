@@ -1,18 +1,13 @@
-version: 0.1
-frontend:
-  phases:
-    preBuild:
-      commands:
-        
-    # IMPORTANT - Please verify your build commands
-    build:
-      commands:
-      - npm install 
-        - make build
-  artifacts:
-    # IMPORTANT - Please verify your build output directory
-    baseDirectory: /_site
-    files:
-      - "**/*"
-  cache:
-    paths: []
+  version: 1.0
+  frontend:
+    phases:
+      build:
+        commands:
+          - bundle install
+          - jekyll build
+    artifacts:
+      baseDirectory: _site
+      files:
+        - '**/*'
+    cache:
+      paths: []
