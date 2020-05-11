@@ -1,13 +1,13 @@
-  version: 1.0
-  frontend:
-    phases:
-      build:
-        commands:
-          - bundle install
-          - jekyll build
-    artifacts:
-      baseDirectory: _site
-      files:
-        - '**/*'
-    cache:
-      paths: []
+version: 1.0
+frontend:
+  phases:
+    build:
+      commands:
+        - bundle install
+        - jekyll build
+  artifacts:
+    baseDirectory: _site
+    files:
+      - "**/*"
+  cache:
+    paths: []
