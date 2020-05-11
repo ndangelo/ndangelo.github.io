@@ -7,7 +7,7 @@ categories: [Design]
 
 <p>Headlines and other short phrases or blocks of text are often set in display type sizes of 18 points and larger. While readability is still important, there is more leeway for using fun or&nbsp;<a href="https://www.thoughtco.com/kinds-of-decorative-typeography-1078016">decorative typefaces</a>&nbsp;in headlines. Beyond what the headline says, it needs contrast—of size or font choice or color—to make it stand out.</p>
 
-###HOW TO CREATE CONTRAST
+##HOW TO CREATE CONTRAST
 
 <ol><li><strong>Match headline fonts to the tone of the document.&nbsp;</strong>Choose a font for headlines that is appropriate to the tone and purpose of your publication. Does the font say&nbsp;<em>fun</em>&nbsp;or&nbsp;<em>serious</em>&nbsp;to you?<ul><li>Classic, serif typefaces and neat, orderly decorative fonts are typical of a formal page layout used for official or traditional communications and serious subjects.</li><li>Along with classic serif and sans serif faces, there is often also room for more playful, decorative, or exotic typefaces in informal page layouts as well as child-focused layouts.</li></ul></li></ol>
 
