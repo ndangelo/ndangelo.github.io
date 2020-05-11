@@ -2,6 +2,7 @@
 layout: default
 title:  "Design"
 categories: [Design]
+---
 
 <ul>
   {% for post in site.categories.Design %}
