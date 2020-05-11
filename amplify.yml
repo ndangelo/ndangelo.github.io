@@ -3,7 +3,6 @@ frontend:
   phases:
     build:
       commands:
-       
         - jekyll build
   artifacts:
     baseDirectory: _site
