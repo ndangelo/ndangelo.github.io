@@ -3,7 +3,7 @@ frontend:
   phases:
     build:
       commands:
-        - bundle install
+        - bundle exec
         - jekyll build
   artifacts:
     baseDirectory: _site
