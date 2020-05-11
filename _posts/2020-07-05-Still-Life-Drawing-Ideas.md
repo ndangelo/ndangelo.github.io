@@ -12,7 +12,7 @@ categories: [Art]
 
 <p><strong>What is a still life?</strong>&nbsp;Here is a definition provided by&nbsp;<a href="http://en.wikipedia.org/wiki/Still_life" target="_blank" rel="noreferrer noopener">Wikipedia</a>:</p>
 
-
+---
 
 <blockquote>A work of art depicting mostly inanimate subject matter, typically commonplace objects which may be either natural or man-made</blockquote>
 
