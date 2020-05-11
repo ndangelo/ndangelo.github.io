@@ -23,6 +23,4 @@ categories: [Design]
 
 </div>
 
-
-
 </div>
