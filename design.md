@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Design"
+title: "Design"
 categories: [Design]
 ---
 
