@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Code Snippet Samples"
-categories: [design]
+title:  "Design"
+categories: [Design]
 
 <ul>
   {% for post in site.categories.Design %}
