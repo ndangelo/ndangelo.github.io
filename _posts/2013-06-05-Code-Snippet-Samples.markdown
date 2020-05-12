@@ -13,3 +13,13 @@ end
 {% endhighlight %}
 
 ---
+
+
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+---
