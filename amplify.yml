@@ -10,6 +10,6 @@ frontend:
   artifacts:
     baseDirectory: _site
     files:
-      - '**/*'
+      - "**/*"
   cache:
     paths: []
