@@ -6,7 +6,8 @@ frontend:
         - bundle install
     # IMPORTANT - Please verify your build commands
     build:
-      commands: []
+      commands: 
+        - npm run build
   artifacts:
     # IMPORTANT - Please verify your build output directory
     baseDirectory: /_site
