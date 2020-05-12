@@ -6,13 +6,9 @@ frontend:
         - bundle install
     # IMPORTANT - Please verify your build commands
     build:
-<<<<<<< HEAD
       commands: 
         - jekyll build
-=======
-      commands:
-        - npm run build
->>>>>>> c9a0cf805410803e2dc8b06a1da8196a7d7fef31
+
   artifacts:
     # IMPORTANT - Please verify your build output directory
     baseDirectory: /_site
