@@ -7,11 +7,11 @@ categories: [Design]
 
 <p>Headlines and other short phrases or blocks of text are often set in display type sizes of 18 points and larger. While readability is still important, there is more leeway for using fun or&nbsp;<a href="https://www.thoughtco.com/kinds-of-decorative-typeography-1078016">decorative typefaces</a>&nbsp;in headlines. Beyond what the headline says, it needs contrast—of size or font choice or color—to make it stand out.</p>
 
-##HOW TO CREATE CONTRAST
+<h2>HOW TO CREATE CONTRAST</h2>
 
 <ol><li><strong>Match headline fonts to the tone of the document.&nbsp;</strong>Choose a font for headlines that is appropriate to the tone and purpose of your publication. Does the font say&nbsp;<em>fun</em>&nbsp;or&nbsp;<em>serious</em>&nbsp;to you?<ul><li>Classic, serif typefaces and neat, orderly decorative fonts are typical of a formal page layout used for official or traditional communications and serious subjects.</li><li>Along with classic serif and sans serif faces, there is often also room for more playful, decorative, or exotic typefaces in informal page layouts as well as child-focused layouts.</li></ul></li></ol>
 
----
+
 
 <ol><li><strong>Use contrasting font styles for headlines.&nbsp;</strong><a href="https://www.thoughtco.com/serif-font-information-1073831">Serif</a>&nbsp;body copy and sans serif headlines provide good contrast. Avoid using headline and body copy fonts that are too similar in style&nbsp;such as two different serif or sans serif fonts.</li><li><strong>Use bold headline fonts to add contrast.&nbsp;</strong>If using the same font for&nbsp;<a href="https://www.thoughtco.com/body-copy-in-typography-1078253">body copy</a>&nbsp;and headlines, create contrast by setting headlines bolder and much larger than body text.</li><li><strong>Make headlines a different color than other text.&nbsp;</strong>Use color in the headline to&nbsp;<a href="https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469">create contrast</a>but make sure there is enough contrast not only between the headline and the body text but also between the headline color and the background.</li><li><strong>Make headlines larger than body copy.&nbsp;</strong>Display and headline fonts are more readable at larger sizes than body copy fonts. For extremely decorative or elaborate fonts use even larger display sizes of 32 points or more in headlines. Create a headline hierarchy with headline fonts that look good in multiple sizes.</li></ol>
 
