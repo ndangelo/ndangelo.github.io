@@ -1,7 +1,7 @@
 Installation
 --------------
 
-There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db46fd8e-4ed9-4ab1-9a64-e8fe404a87b5/deploy-status)](https://app.netlify.com/sites/loving-torvalds-73fac2/deploys)
 
 If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
 
@@ -14,12 +14,6 @@ If you're wanting to replace the theme of an existing Jekyll blog, either option
 5. `index.xml`
 
 You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
-
-
-Demo
--------
-
-You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
 
 
 License
