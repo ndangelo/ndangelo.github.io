@@ -1,5 +1,4 @@
-Installation
---------------
+## Installation
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db46fd8e-4ed9-4ab1-9a64-e8fe404a87b5/deploy-status)](https://app.netlify.com/sites/loving-torvalds-73fac2/deploys)
 
@@ -15,8 +14,6 @@ If you're wanting to replace the theme of an existing Jekyll blog, either option
 
 You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
 
-
-License
----------
+## License
 
 GPLv2 or higher
