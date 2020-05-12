@@ -3,7 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
-      #  - bundle install
+        - bundle install
     # IMPORTANT - Please verify your build commands
     build:
       commands:
