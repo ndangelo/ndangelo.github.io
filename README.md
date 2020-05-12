@@ -14,6 +14,6 @@ If you're wanting to replace the theme of an existing Jekyll blog, either option
 
 You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
 
-### License
+## License
 
 GPLv2 or higher
