@@ -6,6 +6,7 @@ permalink: /:title/
 include:
   - _pages
   - jemoji
+  - _posts
 
 paginate: 5
 
