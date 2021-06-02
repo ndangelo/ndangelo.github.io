@@ -6,7 +6,7 @@ categories: [Pedagogy]
 ---
 
 <h2>Eberly Center</h2>
-<a href="https://www.cmu.edu/teaching/index.html" target="blank"> Eberly Center for Teaching Excellence & Educational Innovation</a>
+<a href="https://www.cmu.edu/teaching/index.html" target="blank">Eberly Center for Teaching Excellence & Educational Innovation</a>
 
 <a href="https://www.cmu.edu/teaching/designteach/design/learningobjectives.html">Design Tech</a>
 
