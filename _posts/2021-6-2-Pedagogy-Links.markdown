@@ -5,12 +5,12 @@ date: 2021-06-2 20:03:11
 categories: [Pedagogy]
 ---
 
-<h1>Eberly Center</h1>
+<h2>Eberly Center</h2>
 <a href="https://www.cmu.edu/teaching/index.html" target="blank" Teaching Excellence & Educational Innovation</a>
 
 <a href="https://www.cmu.edu/teaching/designteach/design/learningobjectives.html">Design Tech</a>
 
-<h1>University of California</h1>
+<h2>University of California</h2>
 <a href="https://cole2.uconline.edu/courses/333119" target="_blank">UCUE</a>
 
 <a href="https://acue.org/courses/modules/aligning-assessments-with-course-outcomes" target="_blank">Aligning Assessments With Course Outcomes</a>
