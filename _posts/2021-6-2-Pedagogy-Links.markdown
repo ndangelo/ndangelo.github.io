@@ -11,6 +11,8 @@ categories: [Pedagogy]
 
 <a href="https://www.cmu.edu/teaching/designteach/design/learningobjectives.html">Design Tech</a>
 
+<a href="https://www.cmu.edu/teaching/assessment/basics/alignment.html" target="_blank">Why should assessments, learning objectives, and instructional strategies be aligned?</a>
+
 ### University of California
 
 <a href="https://cole2.uconline.edu/courses/333119" target="_blank">UCUE</a>
