@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Pedagogy"
+title: "Pedagogy"
 categories: [Pedagogy]
 ---
 
